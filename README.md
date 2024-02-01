@@ -1,6 +1,3 @@
-<div align=left><h1>🛠️ STACKS 🛠️</h1></div>
-  <br>
-
 <div align=left> 
 
   <h1>Platforms & Languages</h1>
